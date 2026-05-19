@@ -12,7 +12,7 @@ Results-driven technology leader with over 20 years of experience in DevOps, clo
 
 ### Key Professional Experience
 
-**Emirates Group (2021–Present & 2019–2020)**  
+**Emirates Group (2019–2020 & 2021–Present)**  
 **Senior Technical DevOps Engineer & Tech Lead**  
 - Led cross-functional DevOps teams in establishing enterprise Kubernetes governance across public clouds.  
 - Designed and implemented Infrastructure as Code (Terraform, Helm, Ansible) and GitOps automation, significantly accelerating onboarding and deployment processes.  
