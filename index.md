@@ -5,7 +5,7 @@ title: Ivan Torrellas — Technology Leader
 
 # Ivan Torrellas
 **Tech Leader | Senior DevOps & Cloud Architect**  
-San José del Cabo, Baja California Sur, Mexico | [LinkedIn](https://linkedin.com/in/ivantorrellas) | [Email] | [Phone]
+[linkedin.com/in/ivantorrellas](linkedin.com/in/ivantorrellas) | [Credly](https://www.credly.com/users/ivantorrellas/badges#credly)
 
 ### Professional Summary
 Results-driven technology leader with over 20 years of experience in DevOps, cloud architecture, and infrastructure transformation. Proven track record leading high-performing engineering teams, driving enterprise-scale Kubernetes and multi-cloud initiatives, and delivering strategic technology roadmaps that enhance scalability, security, and operational efficiency. Excels at mentoring talent, building collaborative cultures, and aligning technical execution with business objectives in fast-paced global environments. Seeking senior leadership opportunities where I can leverage deep expertise in AWS/GCP, GitOps, IaC, and CI/CD to guide organizations through complex digital transformations. Certified AWS Solutions Architect Professional and GCP Professional Cloud Architect.
@@ -56,4 +56,7 @@ CloudWatch • Stackdriver • Cisco • TCP/IP • Virtualization
 **Methodologies**  
 Agile/Scrum • DevSecOps practices
 
-Proven contributor to enterprise-scale centralized CI/CD platforms and multi-regional architectures. Passionate about driving innovation through strong technical leadership, cross-team collaboration, and continuous team growth. References and portfolio available upon request.
+Proven contributor to enterprise-scale centralized CI/CD platforms and multi-regional architectures. Passionate about driving innovation through strong technical leadership, cross-team collaboration, and continuous team growth.
+
+**Recommendations**  
+[View Recommendations on LinkedIn](https://www.linkedin.com/in/ivantorrellas/#recommendations)
