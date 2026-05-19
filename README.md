@@ -1,6 +1,6 @@
 # Ivan Torrellas
 **Tech Leader | Senior DevOps & Cloud Architect**  
-[linkedin.com/in/ivantorrellas](linkedin.com/in/ivantorrellas)
+[linkedin.com/in/ivantorrellas](linkedin.com/in/ivantorrellas) | [Credly](https://www.credly.com/users/ivantorrellas/badges#credly)
 
 ### Professional Summary
 Results-driven technology leader with over 20 years of experience in DevOps, cloud architecture, and infrastructure transformation. Proven track record leading high-performing engineering teams, driving enterprise-scale Kubernetes and multi-cloud initiatives, and delivering strategic technology roadmaps that enhance scalability, security, and operational efficiency. Excels at mentoring talent, building collaborative cultures, and aligning technical execution with business objectives in fast-paced global environments. Seeking senior leadership opportunities where I can leverage deep expertise in AWS/GCP, GitOps, IaC, and CI/CD to guide organizations through complex digital transformations. Certified AWS Solutions Architect Professional and GCP Professional Cloud Architect.
