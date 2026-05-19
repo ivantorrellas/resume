@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ivan Torrellas — Technology Leader
+title: Ivan Torrellas > Technology Leader
 ---
 
 # Ivan Torrellas
